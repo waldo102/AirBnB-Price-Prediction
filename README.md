@@ -34,6 +34,6 @@ expanding the number of people the living complex can accomodate. This is reason
 the more money an owner can charge for using their facility.
 
 
-For more details on the analysis of this project, please read and follow the analysis in the jupyter notebook file insurance_premium_predictor.ipynb 
+For more details on the analysis of this project, please read and follow the analysis in the jupyter notebook file airbnb_price_prediction.ipynb 
 
 *Resources: This project was part of Rajeev D. Ratan's course, Data Science & Deep Learning for Business™ 20 Case Studies as presented in udemy.com*
